@@ -1,5 +1,5 @@
 # coding=utf-8
-__Author__="José Gaspar Sánchez García"
+__Author__="Aarón Caselles Casanova"
 
 """Pide una nota (número). Muestra la calificación según la nota:
     0-3: Muy deficiente.
