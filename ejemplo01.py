@@ -1,5 +1,5 @@
 # coding=utf-8
-__Author__="José Gaspar Sánchejhjz García"
+__Author__="Aarón Caselles Casanova"
 
 import webbrowser, urllib.request, urllib.error, urllib.parse
 
